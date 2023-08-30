@@ -13,12 +13,10 @@
 
 </br>
 
-## Most Used Languages
-<div align=center>
+## git hub
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=initbyran&layout=compact)](https://github.com/initbyran/github-readme-stats)
 
-</div>
 
 
 <!--
